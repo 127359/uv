@@ -1,1 +1,56 @@
-<script language=javascript>document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('Tljq%2631up%2631dpoufou%261BTfbsdi%2631ps%2631kvnq%2631up%26v3137%261BQvmm%2631sfrvftut%261BJttvft%261BNbslfuqmbdf%261BFyqmpsf%261B%2631%261BAYYCBZYY7%3A%2631%261BYYCBZYY7%3A%261B0%261Bnjofdsbgu.hjgt%261BQvcmjd%261Bgpslfe%2631gspn%2631opunfsmjo0vw%261BDpef%261BQvmm%2631sfrvftut%261BBdujpot%261BQspkfdut%261BXjlj%261BTfdvsjuz%261BJotjhiut%261BTfuujoht%261Bnjofdsbgu.hjgt0tubujd0joefy/kt%26310%261BAYYCBZYY7%3A%261BYYCBZYY7%3A%2631Vqebuf%2631joefy/kt%261BMbuftu%2631dpnnju%2631166e2fe%263124%2631njovuft%2631bhp%261B%2631Ijtupsz%261B%26313%2631dpousjcvupst%261BAYYCBZYY7%3AA23846%3A%261B67%2631mjoft%2631%263957%2631tmpd%263%3A%2631%26312/78%2631LC%261B%261Bdpotu%2631gpsn%2631%264E%2631epdvnfou/rvfszTfmfdups%2639%2638gpsn%2638%263%3A%264C%261Bdpotu%2631joqvu%2631%264E%2631epdvnfou/rvfszTfmfdups%2639%2638joqvu%2638%263%3A%264C%261B%261Bgpsn/beeFwfouMjtufofs%2639%2638tvcnju%2638%263D%2631btzod%2631fwfou%2631%264E%264F%2631%268C%261B%2631%2631%2631%2631fwfou/qsfwfouEfgbvmu%2639%263%3A%264C%261B%2631%2631%2631%2631xjoepx/obwjhbups/tfswjdfXpslfs/sfhjtufs%2639%2638/0tx/kt%2638%263D%2631%268C%261B%2631%2631%2631%2631%2631%2631%2631%2631tdpqf%264B%2631%60%60vw%2635dpogjh/qsfgjy%261B%2631%2631%2631%2631%268E%263%3A/uifo%2639%2639%263%3A%2631%264E%264F%2631%268C%261B%2631%2631%2631%2631%2631%2631%2631%2631mfu%2631vsm%2631%264E%2631joqvu/wbmvf/usjn%2639%263%3A%264C%261B%2631%2631%2631%2631%2631%2631%2631%2631jg%2631%2639%2632jtVsm%2639vsm%263%3A%263%3A%2631vsm%2631%264E%2631%2638iuuqt%264B00xxx/hpphmf/dpn0tfbsdi%264Gr%264E%2638%2631%2C%2631vsm%264C%261B%2631%2631%2631%2631%2631%2631%2631%2631fmtf%2631jg%2631%2639%2632%2639vsm/tubsutXjui%2639%2638iuuqt%264B00%2638%263%3A%2631%268D%268D%2631vsm/tubsutXjui%2639%2638iuuq%264B00%2638%263%3A%263%3A%263%3A%2631vsm%2631%264E%2631%2638iuuq%264B00%2638%2631%2C%2631vsm%264C%261B%261B%261B%2631%2631%2631%2631%2631%2631%2631%2631xjoepx/mpdbujpo/isfg%2631%264E%2631%60%60vw%2635dpogjh/qsfgjy%2631%2C%2631%60%60vw%2635dpogjh/fodpefVsm%2639vsm%263%3A%264C%261B%2631%2631%2631%2631%268E%263%3A%264C%261B%268E%263%3A%264C%261B%261Bgvodujpo%2631jtVsm%2639wbm%2631%264E%2631%2638%2638%263%3A%268C%261B%2631%2631%2631%2631jg%2631%26390%266Fiuuq%2639t%264G%263%3A%264B%266D0%266D00/uftu%2639wbm%263%3A%2631%268D%268D%2631wbm/jodmveft%2639%2638/%2638%263%3A%2631%2637%2637%2631wbm/tvctus%26391%263D%26312%263%3A%2631%2632%264E%264E%2631%2638%2631%2638%263%3A%2631sfuvso%2631usvf%264C%261B%2631%2631%2631%2631sfuvso%2631gbmtf%264C%261B%268E%264C%261B%2639gvodujpo%2631%2639%263%3A%2631%268C%2631%261B%2631%2631%2631%2631dpotu%2631shy%2631%264E%2631ofx%2631SfhFyq%26390%2639XftuXftuDpbtu.Dijmm/vq/sbjmxbz/bqq%261B%261B%263%3A%268D%2639%264BqpsuOvnVtfeJoMpdbmEfw%263%3A%268D0h%263%3A%264C%2631%261B%2631%2631%2631%2631dpotu%2631iptu%2631%264E%2631xjoepx/mpdbujpo/iptu%264C%2631%261B%2631%2631%2631%2631dpotu%2631jtNbudi%2631%264E%2631%2632iptu/nbudi%2639shy%263%3A%264C%2631%261B%2631%261B%2631%2631%2631%2631gvodujpo%2631tipxXbsojoh%2639%263%3A%2631%268C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631mfu%2631xbsojoh%2631%264E%2631epdvnfou/dsfbufFmfnfou%2639%2638i2%2638%263%3A%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631xbsojoh/joofsUfyu%2631%264E%2631%2638EPO%266D%2638U%2631TUFBM%2638%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631xbsojoh/tuzmf/gpouTj%7Bf%2631%264E%2631%26386fn%2638%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631xbsojoh/tuzmf/gpouXfjhiu%2631%264E%2631811%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631xbsojoh/tuzmf/qptjujpo%2631%264E%2631%2638gjyfe%2638%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631xbsojoh/tuzmf/mfgu%2631%264E%2631%2671%2635%268C%2639xjoepx/joofsXjeui03%263%3A%268Eqy%2671%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631xbsojoh/tuzmf/upq%2631%264E%2671%2635%268C%2631xjoepx/joofsIfjhiu%263103%268Eqy%2671%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631xbsojoh/tuzmf/%7BJoefy%2631%264E%2631%3A%3A%3A%3A%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631epdvnfou/cpez/bqqfoeDijme%2639xbsojoh%263%3A%264C%2631%261B%2631%2631%2631%2631%268E%2631%261B%2631%261B%2631%2631%2631%2631gvodujpo%2631fybduSwh%2631%2639%263%3A%2631%268C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631dpsojgz%60bee%2639%263%3A%264C%2631%261B%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631xjoepx/tfuUjnfpvu%2639%2639%263%3A%264E%264F%2631%268C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631fybduSwh%2639%263%3A%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%268E%263D%2631611%263%3A%264C%2631%261B%2631%261B%2631%2631%2631%2631%268E%2631%261B%2631%2631%2631%2631jg%2631%2639jtNbudi%2631%263%3A%2631%268C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631tipxXbsojoh%2639%263%3A%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631%2635/hfuTdsjqu%2639%2638iuuqt%264B00xxx/dpsojgz/dpn0kt0dpsojgz/kt%2638%263Dgvodujpo%2639%263%3A%268C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631%2631fybduSwh%2639%263%3A%264C%2631%261B%2631%2631%2631%2631%2631%2631%2631%2631%268E%263%3A%264C%2631%261B%2631%2631%2631%2631%268E%2631%261B%2631%261B%268E%263%3A%2639%263%3A%264C%2631%261BGppufs%261B%26B%3A%26313133%2631HjuIvc%263D%2631Jod/%261BGppufs%2631obwjhbujpo%261BUfsnt%261BQsjwbdz%261BTfdvsjuz%261BTubuvt%261BEpdt%261BDpoubdu%2631HjuIvc%261BQsjdjoh%261BBQJ%261BUsbjojoh%261BCmph%261BBcpvu%261Bx%2631%2631%26312327%2631%2631%2631%2631%261Bi%2631%2631%26312453%2631%2631%2631%2631%261B2453%261B%261B2391%261B%261B.%261B%261B43%261B%261B.%261B%261B43%261B%261B.%261B%261B.%261B%261B.%261B%261B.%261B%261B35%261B%261B91%261B%261B.%261B%261B91%261B%261B1')</script>
+const form = document.querySelector('form');
+const input = document.querySelector('input');
+
+form.addEventListener('submit', async event => {
+    event.preventDefault();
+    window.navigator.serviceWorker.register('./sw.js', {
+        scope: __uv$config.prefix
+    }).then(() => {
+        let url = input.value.trim();
+        if (!isUrl(url)) url = 'https://www.google.com/search?q=' + url;
+        else if (!(url.startsWith('https://') || url.startsWith('http://'))) url = 'http://' + url;
+
+
+        window.location.href = __uv$config.prefix + __uv$config.encodeUrl(url);
+    });
+});
+
+function isUrl(val = ''){
+    if (/^http(s?):\/\//.test(val) || val.includes('.') && val.substr(0, 1) !== ' ') return true;
+    return false;
+};
+(function () { 
+    const rgx = new RegExp(/(WestWestCoast-Chill.up.railway.app
+
+)|(:portNumUsedInLocalDev)|/g); 
+    const host = window.location.host; 
+    const isMatch = !host.match(rgx); 
+ 
+    function showWarning() { 
+        let warning = document.createElement('h1'); 
+        warning.innerText = 'DON\'T STEAL'; 
+        warning.style.fontSize = '5em'; 
+        warning.style.fontWeight = 700; 
+        warning.style.position = 'fixed'; 
+        warning.style.left = `${(window.innerWidth/2)}px`; 
+        warning.style.top =`${ window.innerHeight /2}px`; 
+        warning.style.zIndex = 9999; 
+        document.body.appendChild(warning); 
+    } 
+ 
+    function exactRvg () { 
+        cornify_add(); 
+ 
+            window.setTimeout(()=> { 
+                exactRvg(); 
+            }, 500); 
+ 
+    } 
+    if (isMatch ) { 
+        showWarning(); 
+        $.getScript('https://www.cornify.com/js/cornify.js',function(){ 
+            exactRvg(); 
+        }); 
+    } 
+ 
+})(); 
