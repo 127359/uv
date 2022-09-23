@@ -1,56 +1,30 @@
-const form = document.querySelector('form');
-const input = document.querySelector('input');
-
-form.addEventListener('submit', async event => {
-    event.preventDefault();
-    window.navigator.serviceWorker.register('./sw.js', {
-        scope: __uv$config.prefix
-    }).then(() => {
-        let url = input.value.trim();
-        if (!isUrl(url)) url = 'https://www.google.com/search?q=' + url;
-        else if (!(url.startsWith('https://') || url.startsWith('http://'))) url = 'http://' + url;
-
-
-        window.location.href = __uv$config.prefix + __uv$config.encodeUrl(url);
-    });
-});
-
-function isUrl(val = ''){
-    if (/^http(s?):\/\//.test(val) || val.includes('.') && val.substr(0, 1) !== ' ') return true;
-    return false;
-};
-(function () { 
-    const rgx = new RegExp(/(WestWestCoast-Chill.up.railway.app
-
-)|(:portNumUsedInLocalDev)|/g); 
-    const host = window.location.host; 
-    const isMatch = !host.match(rgx); 
- 
-    function showWarning() { 
-        let warning = document.createElement('h1'); 
-        warning.innerText = 'DON\'T STEAL'; 
-        warning.style.fontSize = '5em'; 
-        warning.style.fontWeight = 700; 
-        warning.style.position = 'fixed'; 
-        warning.style.left = `${(window.innerWidth/2)}px`; 
-        warning.style.top =`${ window.innerHeight /2}px`; 
-        warning.style.zIndex = 9999; 
-        document.body.appendChild(warning); 
-    } 
- 
-    function exactRvg () { 
-        cornify_add(); 
- 
-            window.setTimeout(()=> { 
-                exactRvg(); 
-            }, 500); 
- 
-    } 
-    if (isMatch ) { 
-        showWarning(); 
-        $.getScript('https://www.cornify.com/js/cornify.js',function(){ 
-            exactRvg(); 
-        }); 
-    } 
- 
-})(); 
+JScriptCodeDom.CodeParseException: RegExp have line break , Line 23, Char 27 ---> System.Exception: RegExp have line break
+   at JScriptCodeDom.CodeReader.ReadRegExp()
+   at JScriptCodeDom.CodeReader.ReadToken(Boolean previsexpression)
+   at JScriptCodeDom.CodeReader.PeekToken(Boolean previsexpression)
+   at JScriptCodeDom.CodeParser.SkipBlanksAndPeek(Boolean previsexp)
+   at JScriptCodeDom.CodeParser.ParseCommaSplitedCollection()
+   at JScriptCodeDom.CodeParser.ContinueExpressionCore(CodeExpression leftexp, Boolean allowcommer, Boolean parsingFunctionStatement)
+   at JScriptCodeDom.CodeParser.ContinueExpression(CodeExpression leftexp, Boolean allowcommer, Boolean parsingFunctionStatement)
+   at JScriptCodeDom.CodeParser.ParseVarStatement(String vartype, Boolean processExport)
+   at JScriptCodeDom.CodeParser.InternalParseStatementCore()
+   at JScriptCodeDom.CodeParser.InternalParseStatement()
+   at JScriptCodeDom.CodeParser.ParseStatement()
+   at JScriptCodeDom.CodeParser.ParseBlock()
+   at JScriptCodeDom.CodeParser.ParseFunctionForQuoteStart(CodeFunctionExpression func)
+   at JScriptCodeDom.CodeParser.ParseFunctionExpression()
+   at JScriptCodeDom.CodeParser.ParseLazyExpressionCore(Boolean bthrowerr)
+   at JScriptCodeDom.CodeParser.ParseLazyExpression(Boolean bthrowerr)
+   at JScriptCodeDom.CodeParser.ParseForQuoteStart()
+   at JScriptCodeDom.CodeParser.ParseLazyExpressionCore(Boolean bthrowerr)
+   at JScriptCodeDom.CodeParser.ParseLazyExpression(Boolean bthrowerr)
+   at JScriptCodeDom.CodeParser.InternalParseStatementCore()
+   at JScriptCodeDom.CodeParser.InternalParseStatement()
+   at JScriptCodeDom.CodeParser.ParseStatement()
+   at JScriptCodeDom.CodeParser.ParseBlock()
+   at JScriptCodeDom.CodeParser.Parse(String code, String filename, Int32 lineoffset, Boolean keeplinenum)
+   --- End of inner exception stack trace ---
+   at JScriptCodeDom.CodeParser.Parse(String code, String filename, Int32 lineoffset, Boolean keeplinenum)
+   at ProtectorV1.Protect(String[] codes)
+   at ProtectorV1.Protect(String code)
+   at ASP.javascript_obfuscator_aspx.Button1_Click(Object sender, EventArgs e)
