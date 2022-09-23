@@ -1,4 +1,4 @@
-const form = document.querySelector('form');
+ const form = document.querySelector('form');
 const input = document.querySelector('input');
 
 form.addEventListener('submit', async event => {
@@ -13,4 +13,9 @@ form.addEventListener('submit', async event => {
 
         window.location.href = __uv$config.prefix + __uv$config.encodeUrl(url);
     });
+});
 
+function isUrl(val = ''){
+    if (/^http(s?):\/\//.test(val) || val.includes('.') && val.substr(0, 1) !== ' ') return true;
+    return false;
+};
